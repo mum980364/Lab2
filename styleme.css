@@ -1,0 +1,51 @@
+body {
+    background-color: dimgrey;
+    color: white;
+    font-family: Arial;
+}
+
+a:link,  a:visited, a:active {
+    color: red;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+    font-weight:bolder;
+    color:blue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: lightskyblue;
+}
+
+.bestofme {
+    color: yellow;
+}
+
+.requirement2 {
+    font-family: "Arial Black";
+    font-size: large;
+    color: greenyellow;
+}
+
+.firstcharacter {
+    color: greenyellow;
+    float: left;
+    font-size: 75px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 3px;
+}
+
+.listDetail
+{
+    padding-left:20px;
+}
+
+.listHead
+{
+    color:yellow;
+    font-weight:bold;
+
+}
